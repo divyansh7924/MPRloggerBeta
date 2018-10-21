@@ -1,0 +1,1 @@
+Basic implementation of Keyboard Hook to print virtual key code of every key pressed. Can be used as a template for other features.
