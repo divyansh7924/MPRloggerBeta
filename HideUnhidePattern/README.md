@@ -1,0 +1,1 @@
+Implimentation of code needed to hide / unhide the keylogger window using a pattern of keypress. Pattern for now is ctrl + shift + ! .
