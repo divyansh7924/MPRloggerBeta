@@ -1,2 +1,3 @@
 # MPRloggerBeta
 This repo is for initial implementations of features needed in project.
+This is a keylogger which uses the concept of Hooks in Windows.
